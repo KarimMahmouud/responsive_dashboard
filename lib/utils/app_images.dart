@@ -7,7 +7,7 @@ class Assets {
 
   static const String imagesAvatar3 = "assets/images/avatar_3.svg";
 
-  static const String imagesBackgroung = "assets/images/backgroung.svg";
+  static const String imagesBackgroung = "assets/images/backgroung.png";
 
   static const String imagesBalance = "assets/images/balance.svg";
 

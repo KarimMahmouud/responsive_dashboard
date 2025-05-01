@@ -16,7 +16,6 @@ class QuickInvoiceForm extends StatelessWidget {
             Expanded(
               child: TitleTextField(
                 titleText: 'Customer name',
-                
                 hintText: 'Type customer name',
               ),
             ),

@@ -94,7 +94,7 @@ class Active extends StatelessWidget {
             allItemsModel.price,
             style: AppStyles.styleSemiBold24(context).copyWith(
               color: Colors.white,
-            ),  
+            ),
           ),
         ],
       ),
